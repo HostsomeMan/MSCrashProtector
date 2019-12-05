@@ -62,7 +62,7 @@ An Global protection scheme..
 
 ## Credits
 
-MSCrashProtector was created by [Jiang.Zijia](https://github.com/JZJJZJ).
+MSCrashProtector was created by [Jiang.Zijia](https://github.com/sureJiang).
 
 ## License
 
